@@ -12,7 +12,7 @@ public class Quiz8 {
 		case 9: // 90~99
 			System.out.println("수");
 			break;
-		case 8: // 80~89
+		case 8: // 80~89                        
 			System.out.println("우");
 			break;
 		case 7: // 70~79

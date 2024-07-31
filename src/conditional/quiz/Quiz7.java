@@ -21,6 +21,20 @@ public class Quiz7 {
 		default:
 			System.out.println("사람");
 		}		
+		
+		
+		//정수
+		int sum = 1;
+		
+		switch(sum){
+		case 1:
+			System.out.println("test1");
+			break;
+		case 2:
+			System.out.println("test2");
+		default:
+			System.out.println("땡");
+		}
 
 	}
 
